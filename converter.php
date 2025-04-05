@@ -2,14 +2,14 @@
 // filepath: converter-cli/converter.php
 
 function showMenu() {
-    echo "=== Converter CLI ===\n";
-    echo "1. Convert Temperature (°C ↔ °F)\n";
-    echo "2. Convert Distance (Km ↔ Miles)\n";
-    echo "3. Convert Currency (EUR ↔ USD)\n";
-    echo "4. Convert Mass (Kg ↔ Lb)\n";
-    echo "5. Show Conversion History\n";
+    echo "=== Convert ===\n";
+    echo "1. Temperature (°C ↔ °F)\n";
+    echo "2. Distance (Km ↔ Miles)\n";
+    echo "3. Monnaie (EUR ↔ USD)\n";
+    echo "4. Masse (Kg ↔ Lb)\n";
+    echo "5. L'historique \n";
     echo "6. Exit\n";
-    echo "Choose an option: ";
+    echo "Choisir une option: ";
 }
 
 function convertTemperature() {
