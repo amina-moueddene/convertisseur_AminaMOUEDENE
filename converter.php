@@ -49,7 +49,7 @@ function convertMass() {
 function showHistory() {
     if (file_exists("history.txt")) {
         $history = file_get_contents("history.txt");
-        echo "=== Conversion History ===\n";
+        echo "=== Show History ===\n";
         echo $history;
     } else {
         echo "No history available.\n";
