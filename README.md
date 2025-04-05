@@ -1,4 +1,4 @@
-# Convertisseur CLI
+# Convertisseur AminaMOUEDDENE
 
 Ce projet est une application en ligne de commande (CLI) écrite en PHP. Elle permet de convertir des unités de mesure (température, distance, monnaie, masse) et de conserver un historique des conversions.
 
